@@ -1,3 +1,6 @@
-Pakage needed
+Repository include Small UI programs by using Tkinter pakage in python
 
-pip install tkinter
+Pakage needed
+  tkinter
+Pakage Installation
+  pip install tkinter
